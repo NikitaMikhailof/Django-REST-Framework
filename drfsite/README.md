@@ -1,0 +1,1 @@
+**Учебный проект для изучения Django REST Framework**
